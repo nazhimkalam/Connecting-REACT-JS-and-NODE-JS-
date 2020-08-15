@@ -10,3 +10,6 @@
     npm i -save cors
 
 ### Install the default node_modules for both node and react, which comes along when you create a new application.
+
+### React port localhost://3000
+### Node port localhost://5000
